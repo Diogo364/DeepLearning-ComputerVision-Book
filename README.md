@@ -23,6 +23,10 @@ Code examples from Adrian Rosebrock's *Deep Learning for Computer Vision with Py
 It's important to say that all codes in this repo are inspired/a copy from the examples in the book and that I shouldn't take credit for any of it.
 > **NOTE:** The main goal of this repository is to be a guide and exemplify my knoledge throughout the world of Deep Learning and Computer Vision, working as baseline.
 
+## Requirements:
+- Docker
+- Animals dataset - you can download it [here](https://www.kaggle.com/ashishsaxena2209/animal-image-datasetdog-cat-and-panda)
+> **NOTE:** After downloading the dataset move the `Animals` dir into the `datasets` dir.
 
 
 ## Quickstart;
