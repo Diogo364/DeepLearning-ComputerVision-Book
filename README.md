@@ -6,8 +6,24 @@ Code examples from Adrian Rosebrock's *Deep Learning for Computer Vision with Py
 <details><summary>Link to download</summary>
 
 [Click here](https://www.pyimagesearch.com/deep-learning-computer-vision-python-book/)
-
 </details>
+
+## Copyright:
+```
+@book{rosebrock_dl4cv,
+  author={Rosebrock, Adrian},
+  title={Deep Learning for Computer Vision with Python},
+  year={2019},
+  edition={3.0.0},
+  publisher={PyImageSearch.com}
+}
+```
+
+##Considerations:
+It's important to say that all codes in this repo are inspired/a copy from the examples in the book and that I shouldn't take credit for any of it.
+> **NOTE:** The main goal of this repository is to be a guide and exemplify my knoledge throughout the world of Deep Learning and Computer Vision, working as baseline.
+
+
 
 ## Quickstart;
 - Run the `docker_run.sh` file using the path to the python file as parameter as bellow:
