@@ -34,6 +34,6 @@ It's important to say that all codes in this repo are inspired/a copy from the e
     ...
     > [INSTRUCTION] Enter parameters CLI parameters, else press enter!
     > [TIP] If you don't know about CLI parameters type -h or --help
-    $ --d CLI-PARAMETER1 -e CLI-PARAMETER2
+    $ -d CLI-PARAMETER1 -e CLI-PARAMETER2
     ```
 - After the execution all images outputs will be saved inside an outputs dir within your workdir
