@@ -1,4 +1,5 @@
 .devcontainer
+outputs
 *.csv
 *.png
 *.jpg
