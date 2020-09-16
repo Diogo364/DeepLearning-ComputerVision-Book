@@ -17,6 +17,6 @@ else
 
     docker run --rm -it \
     -v $(pwd):/workdir/ \
-    diogo364/dl4cv:1.0 \
+    diogo364/dl4cv:latest \
     python3 "$1" $PARAMETERS
 fi
