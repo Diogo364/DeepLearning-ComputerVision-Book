@@ -5,3 +5,4 @@ outputs
 *.jpg
 .dockerignore
 __pycache__
+mlruns
